@@ -3,7 +3,7 @@
 gaha
 # Flask-PyMongo
 
-PyMongo support for Flask applications
+    PyMongo support for Flask applications
 
 ## Quickstart
 
